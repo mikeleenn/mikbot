@@ -1,1 +1,11 @@
-sesion_mikbot/\nnode_modules/\ndatabase/\n*.js
+node_modules/
+sesion_mikbot/
+database/
+*.log
+bot_broken.js
+bot_part1.js
+bot_part2.js
+bot_tt.js
+fix_tt2.js
+bot.backup.js
+package-lock.json
